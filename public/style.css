@@ -1,0 +1,26 @@
+* {
+    font-family: Inter, sans-serif;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #F55A5A;
+    display: flex;
+    height: 55px;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.navbar--icon {
+    width: 30px;
+}
+
+.navbar--text {
+    color: white;
+    font-weight: 500;
+}
+
+.location--pin {
+    width: 20px;
+}
