@@ -21,6 +21,30 @@
     font-weight: 500;
 }
 
+.location {
+    display: flex;
+}
+
 .location--pin {
     width: 20px;
+}
+
+.entry {
+
+}
+
+.entry--photo {
+    width: 400px;
+}
+
+.entry > h1 {
+    color: red;
+}
+
+.entry > h3 {
+
+}
+
+.entry > p {
+
 }
