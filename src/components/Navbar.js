@@ -1,5 +1,6 @@
 import React from "react"
 import globe from "../images/globe.png"
+
 export default function Navbar() {
     return (
         <div className="navbar">
